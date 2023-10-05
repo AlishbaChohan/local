@@ -1,1 +1,1 @@
-# this is the lcal repository
+# this is the local repository
